@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mehak Sumbria
-- 👀 I’m a Data analyst
-- 2
+5555555- 👋 Hi, I’m Mehak Sumbria
+- 👀 Results-driven Data Analyst with 2 years of experience, adept at SQL, Power BI, and statistical analysis. Currently exploring new opportunities in the dynamic field of Data Analytics.
+- 0
 
 <!---
 mehak9220/mehak9220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
